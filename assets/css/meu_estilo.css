@@ -6,3 +6,9 @@ img{
     border-radius: 50%;
     width: 50%;
 }
+
+.pinguim{
+    background-image: url(./../imgs/image.png);
+    width: 200px;
+    padding: 50px;
+}
