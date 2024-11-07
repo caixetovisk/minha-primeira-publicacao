@@ -1,7 +1,7 @@
 <?php
 // Conexão com o banco de dados
 $conn = new mysqli("localhost", "usuario", "senha", "banco_de_dados");
-
+//fdsa
 // Verifica a conexão
 if ($conn->connect_error) {
     die("Falha na conexão: " . $conn->connect_error);
