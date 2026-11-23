@@ -2,6 +2,6 @@
 
 class Test{
     public function algo(){
-        return "aaaa";
+        return "aaa fdsa fdsafdsaa";
     }
 }
